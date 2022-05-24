@@ -29,10 +29,10 @@ const Home: NextPage = () => {
     <>
             <Nav/>
             <Section header='About'/>
-            <Image
+            {/* <Image
                 className="centeredimage"
                 src={Avatar}
-            />
+            /> */}
             {/* <Image className="centeredimage" src="" layout='fill'/> */}
             {/* <img className="centeredimage" src="../public/favicon.png"/> */}
             <p className="centered">
